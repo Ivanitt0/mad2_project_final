@@ -1,0 +1,2 @@
+C:/Flutter Projects/mad_midterm_requirement/mad_midterm_requirement/endless_runner_namin/android/app/.cxx/Debug/5p244x3e/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Flutter Projects/mad_midterm_requirement/mad_midterm_requirement/endless_runner_namin/android/app/.cxx/Debug/5p244x3e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
